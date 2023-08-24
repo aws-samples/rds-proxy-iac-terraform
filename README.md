@@ -34,7 +34,7 @@ The infrastructure as code shared in this project will create an instance of an 
 See [input variables file](variables.tf) for a desription of the input variables. 
 
 # Implementation Guide
-- See !["Getting started with RDS Proxy"](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy-setup.html) guide to setup network, proxy role, and secret inputs needed for RDS Proxy
+- See ["Getting started with RDS Proxy"](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy-setup.html) guide to setup network, proxy role, and secret inputs needed for RDS Proxy
 - Download this project files to your local folder
 - Initialize your AWS command line
 - Initialzie your Terraform command line
